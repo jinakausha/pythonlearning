@@ -7,10 +7,10 @@ a = lambda x,y : x + y
 print(a(10,20))        
 print(type(a))        
 
-b = lambda (x,y) : x + y 
+b = lambda x,y : x + y 
 print(b(10,20)) 
 
-c = lambda x,y : return x + y 
+c = lambda x,y : x + y 
 print(c(10,20))
 
 # lambda function to return the sum of two numbers
