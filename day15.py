@@ -35,7 +35,7 @@ print()
 # print(add(c=3, a=1, b=2))
 
 # #order of = in function def
-# #def sub(a=10, b, c):
+# def sub(a=10, b, c):
 #     pass 
 # #order of = in function call.
 # add(a=10, b, c)
@@ -48,5 +48,5 @@ print()
 # def f2(**a):
 #     print(a)
 #     print(type(a))
-# #f2(1,2,3,4)
+# f2(1,2,3,4)
 # f2(a=1, b=2, c=3, d=4)
