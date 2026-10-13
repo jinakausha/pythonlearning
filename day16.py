@@ -4,18 +4,15 @@ def f1():
     b = 2
     print(a)     
     print(b) 
-    print(c)   
+
 def f2():
     c = 2 
     print(a)  
-    print(b) 
     print(c)  
 f1()
 f2()
 print(a)      
-print(b)      
-print(c)     
-
+      
 #call by value, call by reference
 # call by value 
 def f1(a):
