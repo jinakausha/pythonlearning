@@ -33,5 +33,5 @@ while True:
         while True == False:
             print("Exiting...")
             exit()
-    else:
-        print("Invalid choice. Please try again.")
+        else:
+            print("Invalid choice. Please try again.")
